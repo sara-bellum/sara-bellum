@@ -15,10 +15,6 @@
 
 </div>
 
-
-<h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
-<p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
-
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
